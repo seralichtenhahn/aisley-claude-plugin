@@ -1,10 +1,10 @@
 {
   "name": "aisley",
-  "displayName": "Aisley",
+  "displayName": "aisley",
   "version": "1.0.0",
   "description": "Plan your wedding with Aisley from Claude. Aisley writes to the venues, reads the replies, and does the chasing; you make the decisions. Find and shortlist venues, send enquiries and follow-ups from your Gmail after you approve them, and keep the to-dos and budget current.",
   "author": {
-    "name": "Aisley",
+    "name": "aisley",
     "email": "hello@getaisley.com",
     "url": "https://getaisley.com"
   },

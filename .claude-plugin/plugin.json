@@ -1,0 +1,22 @@
+{
+  "name": "aisley",
+  "displayName": "Aisley",
+  "version": "1.0.0",
+  "description": "Plan your wedding with Aisley from Claude. Aisley writes to the venues, reads the replies, and does the chasing; you make the decisions. Find and shortlist venues, send enquiries and follow-ups from your Gmail after you approve them, and keep the to-dos and budget current.",
+  "author": {
+    "name": "Aisley",
+    "email": "hello@getaisley.com",
+    "url": "https://getaisley.com"
+  },
+  "homepage": "https://getaisley.com/developers",
+  "repository": "https://github.com/seralichtenhahn/aisley-claude-plugin",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://getaisley.com/privacy-policy",
+  "icon": ".claude-plugin/icon.png",
+  "keywords": [
+    "wedding",
+    "wedding planning",
+    "venues",
+    "vendors"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "aisley",
+  "owner": {
+    "name": "Aisley",
+    "email": "hello@getaisley.com"
+  },
+  "metadata": {
+    "description": "The Aisley wedding planning plugin for Claude."
+  },
+  "plugins": [
+    {
+      "name": "aisley",
+      "source": "./",
+      "description": "Plan your wedding with Aisley from Claude: venues, vendor email, follow-ups, to-dos and budget."
+    }
+  ]
+}

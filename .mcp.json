@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aisley": {
+      "type": "http",
+      "url": "https://getaisley.com/mcp"
+    }
+  }
+}
